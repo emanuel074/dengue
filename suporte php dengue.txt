@@ -1,0 +1,4 @@
+http://localhost/bancophp/gravar_visita.php?nome_agente=samuel&cod_agente=1505&num_equipe=06&data_visita=10/04/16&horario_visita=19:54&nome_morador=ronalsantos&estado=mg&cidade=contagem&bairro=industrial&rua=cinco&complemento=casa&num_casa=712&atividades=prevencao&situacao_imovel=verificado&motivo_visita=verificacao
+
+
+http://localhost/bancophp/gravar_focos.php?cod_agente=1515&num_equipe=1236&nome_morador=Verancio&estado=MG&cidade=Belo Horizonte&rua=volta rendonda&num_casa=157&data_visita=27/04/2016&local_Visita=Domestico&quantidade_focosAgua=5&quantidade_criadouros=4&local_tem_entulho=sim&tipofocos1=Pneu&num_focos1=2&tipofocos2=Vaso de Planta&num_focos2=5&tipofocos3=Caixa de agua&num_focos3=5&situacao_imovel=Verificado
