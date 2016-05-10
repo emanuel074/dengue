@@ -13,7 +13,8 @@
   while($linha = mysql_fetch_object($resultado)) {
           echo $linha->nomeProfissional."#";
 	  echo $linha->codigoAgente."#";
-	  echo $linha->Cor_equipe."#";
+	  echo $linha->Cor_equipe."#"; 
+	  
 	  }
   echo "^";
 
