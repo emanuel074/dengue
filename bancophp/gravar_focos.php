@@ -1,7 +1,7 @@
 <?php
   $nome_agente =$_POST['nome_agente'];
   $cod_agente =$_POST['cod_agente'];
-  $equipe =$_POST['num_equipe'];
+  $equipe =$_POST['equipe'];
   $nome_morador =$_POST['nome_morador'];
   $estado =$_POST['estado'];
   $cidade =$_POST['cidade'];
@@ -25,7 +25,7 @@
   
   mysql_select_db('bancoDengue',$conexao);
   
-  $sql = "insert into registrodefocos (nome_agente,cod_agente, equipe, nome_morador, estado, cidade, rua, num_casa, data_visita, local_Visita, quantidade_focosAgua, quantidade_criadouros, local_tem_entulho, tipofocos1, num_focos1, tipofocos2, num_focos2, tipofocos3, num_focos3, situacao_imovel) 
+  $sql = "insert into registrodefocos (nome_agente, cod_agente, equipe, nome_morador, estado, cidade, rua, num_casa, data_visita, local_Visita, quantidade_focosAgua, quantidade_criadouros, local_tem_entulho, tipofocos1, num_focos1, tipofocos2, num_focos2, tipofocos3, num_focos3, situacao_imovel) 
   values ('$nome_agente','$cod_agente','$equipe','$nome_morador','$estado','$cidade','$rua','$num_casa','$data_visita','$local_Visita','$quantidade_focosAgua','$quantidade_criadouros','$local_tem_entulho','$tipofocos1','$num_focos1','$tipofocos2','$num_focos2','$tipofocos3','$num_focos3','$situacao_imovel')";
   
   $resultado = mysql_query($sql) or die ("Erro: " . mysql_error());

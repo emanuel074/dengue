@@ -1,7 +1,7 @@
 <?php
   $nome_agente =$_POST['nome_agente'];
   $cod_agente =$_POST['cod_agente'];
-  $equipe =$_POST['num_equipe'];
+  $equipe =$_POST['equipe'];
   $data_visita =$_POST['data_visita'];
   $horario_visita =$_POST['horario_visita'];
   $nome_morador =$_POST['nome_morador'];
