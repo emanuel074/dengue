@@ -1,7 +1,7 @@
 <?php
   $nome_agente =$_POST['nome_agente'];
   $cod_agente =$_POST['cod_agente'];
-  $num_equipe =$_POST['num_equipe'];
+  $equipe =$_POST['num_equipe'];
   $data_visita =$_POST['data_visita'];
   $horario_visita =$_POST['horario_visita'];
   $nome_morador =$_POST['nome_morador'];
@@ -19,8 +19,8 @@
   
   mysql_select_db('bancoDengue',$conexao);
   
-  $sql = "insert into fichavisita (nome_agente, cod_agente, num_equipe, data_visita, horario_visita, nome_morador, estado, cidade, bairro, rua, complemento, num_casa, atividades, situacao_imovel, motivo_visita) 
-  values ('$nome_agente','$cod_agente','$num_equipe','$data_visita','$horario_visita','$nome_morador','$estado','$cidade','$bairro','$rua','$complemento','$num_casa','$atividades','$situacao_imovel','$motivo_visita')";
+  $sql = "insert into fichavisita (nome_agente, cod_agente, equipe, data_visita, horario_visita, nome_morador, estado, cidade, bairro, rua, complemento, num_casa, atividades, situacao_imovel, motivo_visita) 
+  values ('$nome_agente','$cod_agente','$equipe','$data_visita','$horario_visita','$nome_morador','$estado','$cidade','$bairro','$rua','$complemento','$num_casa','$atividades','$situacao_imovel','$motivo_visita')";
   
   $resultado = mysql_query($sql) or die ("Erro: " . mysql_error());
   
