@@ -2,7 +2,7 @@
 
   $conexao = mysql_connect('localhost','root','');
   
-  mysql_select_db('bancoDengue',$conexao);
+  mysql_select_db('bancodengue',$conexao);
   
   $sql="select * from cadastroagente";
   
