@@ -1,0 +1,54 @@
+C:\Users\Larissa Prado\Documents\projetoAgendamento\projetoAgendamento\bin\Debug\projetoAgendamento.exe.config
+C:\Users\Larissa Prado\Documents\projetoAgendamento\projetoAgendamento\bin\Debug\projetoAgendamento.exe
+C:\Users\Larissa Prado\Documents\projetoAgendamento\projetoAgendamento\bin\Debug\projetoAgendamento.pdb
+C:\Users\Larissa Prado\Documents\projetoAgendamento\projetoAgendamento\obj\Debug\projetoAgendamento.csprojResolveAssemblyReference.cache
+C:\Users\Larissa Prado\Documents\projetoAgendamento\projetoAgendamento\obj\Debug\projetoAgendamento.Form1.resources
+C:\Users\Larissa Prado\Documents\projetoAgendamento\projetoAgendamento\obj\Debug\projetoAgendamento.Properties.Resources.resources
+C:\Users\Larissa Prado\Documents\projetoAgendamento\projetoAgendamento\obj\Debug\projetoAgendamento.csproj.GenerateResource.Cache
+C:\Users\Larissa Prado\Documents\projetoAgendamento\projetoAgendamento\obj\Debug\projetoAgendamento.exe
+C:\Users\Larissa Prado\Documents\projetoAgendamento\projetoAgendamento\obj\Debug\projetoAgendamento.pdb
+F:\projetoAgendamento\projetoAgendamento\bin\Debug\projetoAgendamento.exe.config
+F:\projetoAgendamento\projetoAgendamento\obj\Debug\projetoAgendamento.exe
+F:\projetoAgendamento\projetoAgendamento\obj\Debug\projetoAgendamento.pdb
+C:\Users\larissa.prado\Desktop\projetoAgendamento\projetoAgendamento\bin\Debug\projetoAgendamento.exe.config
+C:\Users\larissa.prado\Desktop\projetoAgendamento\projetoAgendamento\obj\Debug\projetoAgendamento.exe
+C:\Users\larissa.prado\Desktop\projetoAgendamento\projetoAgendamento\obj\Debug\projetoAgendamento.pdb
+D:\projetoAgendamento\bin\Debug\projetoAgendamento.exe.config
+D:\projetoAgendamento\obj\Debug\projetoAgendamento.exe
+D:\projetoAgendamento\obj\Debug\projetoAgendamento.pdb
+F:\projetoAgendamento\bin\Debug\projetoAgendamento.exe.config
+F:\projetoAgendamento\obj\Debug\projetoAgendamento.exe
+F:\projetoAgendamento\obj\Debug\projetoAgendamento.pdb
+D:\projetoAgendamento\obj\Debug\projetoAgendamento.csprojResolveAssemblyReference.cache
+D:\projetoAgendamento\obj\Debug\projetoAgendamento.Form1.resources
+D:\projetoAgendamento\obj\Debug\projetoAgendamento.Properties.Resources.resources
+D:\projetoAgendamento\obj\Debug\projetoAgendamento.csproj.GenerateResource.Cache
+D:\projetoAgendamento\bin\Debug\projetoAgendamento.exe
+D:\projetoAgendamento\bin\Debug\projetoAgendamento.pdb
+F:\David olha o codigo pra mim\projetoAgendamento\bin\Debug\projetoAgendamento.exe.config
+F:\David olha o codigo pra mim\projetoAgendamento\obj\Debug\projetoAgendamento.exe
+F:\David olha o codigo pra mim\projetoAgendamento\obj\Debug\projetoAgendamento.pdb
+F:\David olha o codigo pra mim\projetoAgendamento\obj\Debug\projetoAgendamento.csprojResolveAssemblyReference.cache
+F:\David olha o codigo pra mim\projetoAgendamento\obj\Debug\projetoAgendamento.Form1.resources
+F:\David olha o codigo pra mim\projetoAgendamento\obj\Debug\projetoAgendamento.Properties.Resources.resources
+F:\David olha o codigo pra mim\projetoAgendamento\obj\Debug\projetoAgendamento.csproj.GenerateResource.Cache
+F:\David olha o codigo pra mim\projetoAgendamento\bin\Debug\projetoAgendamento.exe
+F:\David olha o codigo pra mim\projetoAgendamento\bin\Debug\projetoAgendamento.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\bin\Debug\projetoAgendamento.exe.config
+F:\Projeto Dengue\Dengue Desktop\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.exe
+F:\Projeto Dengue\Dengue Desktop\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\bin\Debug\projetoAgendamento.exe
+F:\Projeto Dengue\Dengue Desktop\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\bin\Debug\projetoAgendamento.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.csprojResolveAssemblyReference.cache
+F:\Projeto Dengue\Dengue Desktop\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.Form1.resources
+F:\Projeto Dengue\Dengue Desktop\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.Properties.Resources.resources
+F:\Projeto Dengue\Dengue Desktop\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.csproj.GenerateResource.Cache
+D:\PROJETO DENGUE\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\bin\Debug\projetoAgendamento.exe.config
+D:\PROJETO DENGUE\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.exe
+D:\PROJETO DENGUE\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.pdb
+D:\PROJETO DENGUE\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\bin\Debug\projetoAgendamento.exe
+D:\PROJETO DENGUE\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\bin\Debug\projetoAgendamento.pdb
+D:\PROJETO DENGUE\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.csprojResolveAssemblyReference.cache
+D:\PROJETO DENGUE\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.Form1.resources
+D:\PROJETO DENGUE\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.Properties.Resources.resources
+D:\PROJETO DENGUE\Version 5 (29.04.2016)\Agendamento 29-04(NEW)\projetoAgendamento\obj\Debug\projetoAgendamento.csproj.GenerateResource.Cache
