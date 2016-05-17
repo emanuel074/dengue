@@ -63,3 +63,6 @@ E:\Dengue Desktop\controledengue\controledengue\bin\Debug\pt\Microsoft.ReportVie
 E:\Dengue Desktop\controledengue\controledengue\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
 E:\Dengue Desktop\controledengue\controledengue\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
 E:\Dengue Desktop\controledengue\controledengue\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\TEMP.LABEDUC.007\Documents\GitHub\dengue\PROJETO DENGUE\Version 4\controledengue (new)\controledengue\controledengue\bin\Debug\controledengue.exe.config
+C:\Users\TEMP.LABEDUC.007\Documents\GitHub\dengue\PROJETO DENGUE\Version 4\controledengue (new)\controledengue\controledengue\obj\Debug\controledengue.exe
+C:\Users\TEMP.LABEDUC.007\Documents\GitHub\dengue\PROJETO DENGUE\Version 4\controledengue (new)\controledengue\controledengue\obj\Debug\controledengue.pdb

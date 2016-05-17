@@ -357,3 +357,6 @@ E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2
 E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
 E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.A2Z.resources
 E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.DicasPrevenção.resources
+C:\Users\TEMP.LABEDUC.007\Documents\GitHub\dengue\PROJETO DENGUE\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+C:\Users\TEMP.LABEDUC.007\Documents\GitHub\dengue\PROJETO DENGUE\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.exe
+C:\Users\TEMP.LABEDUC.007\Documents\GitHub\dengue\PROJETO DENGUE\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.pdb
