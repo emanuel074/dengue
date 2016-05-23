@@ -1,0 +1,501 @@
+c:\users\rafael.bar\documents\visual studio 2013\Projects\controledengue\controledengue\bin\Debug\controledengue.exe.config
+c:\users\rafael.bar\documents\visual studio 2013\Projects\controledengue\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+c:\users\rafael.bar\documents\visual studio 2013\Projects\controledengue\controledengue\obj\Debug\controledengue.Form2.resources
+c:\users\rafael.bar\documents\visual studio 2013\Projects\controledengue\controledengue\obj\Debug\controledengue.Form1.resources
+c:\users\rafael.bar\documents\visual studio 2013\Projects\controledengue\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+c:\users\rafael.bar\documents\visual studio 2013\Projects\controledengue\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+c:\users\rafael.bar\documents\visual studio 2013\Projects\controledengue\controledengue\bin\Debug\controledengue.exe
+c:\users\rafael.bar\documents\visual studio 2013\Projects\controledengue\controledengue\bin\Debug\controledengue.pdb
+c:\users\rafael.bar\documents\visual studio 2013\Projects\controledengue\controledengue\obj\Debug\controledengue.exe
+c:\users\rafael.bar\documents\visual studio 2013\Projects\controledengue\controledengue\obj\Debug\controledengue.pdb
+I:\controledengue\controledengue\bin\Debug\controledengue.exe.config
+I:\controledengue\controledengue\obj\Debug\controledengue.exe
+I:\controledengue\controledengue\obj\Debug\controledengue.pdb
+I:\controledengue\controledengue\bin\Debug\controledengue.exe
+I:\controledengue\controledengue\bin\Debug\controledengue.pdb
+I:\controledengue\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+I:\controledengue\controledengue\obj\Debug\controledengue.Form2.resources
+I:\controledengue\controledengue\obj\Debug\controledengue.Form1.resources
+I:\controledengue\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+I:\controledengue\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+E:\controledengue\controledengue\bin\Debug\controledengue.exe.config
+E:\controledengue\controledengue\obj\Debug\controledengue.exe
+E:\controledengue\controledengue\obj\Debug\controledengue.pdb
+E:\controledengue\controledengue\bin\Debug\controledengue.exe
+E:\controledengue\controledengue\bin\Debug\controledengue.pdb
+E:\controledengue\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+E:\controledengue\controledengue\obj\Debug\controledengue.Form2.resources
+E:\controledengue\controledengue\obj\Debug\controledengue.Form1.resources
+E:\controledengue\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+E:\controledengue\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+G:\Dengue Desktop\controledengue\controledengue\bin\Debug\controledengue.exe.config
+G:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.exe
+G:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.pdb
+F:\Dengue Desktop\controledengue\controledengue\bin\Debug\controledengue.exe.config
+F:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.exe
+F:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.pdb
+F:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.Form2.resources
+F:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.Form1.resources
+F:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\Dengue Desktop\controledengue\controledengue\bin\Debug\controledengue.exe
+F:\Dengue Desktop\controledengue\controledengue\bin\Debug\controledengue.pdb
+E:\Dengue Desktop\controledengue\controledengue\bin\Debug\controledengue.exe.config
+E:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.exe
+E:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.pdb
+E:\Dengue Desktop\controledengue\controledengue\bin\Debug\controledengue.exe
+E:\Dengue Desktop\controledengue\controledengue\bin\Debug\controledengue.pdb
+E:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+E:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.Form2.resources
+E:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.Form1.resources
+E:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+E:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+D:\Dengue Desktop\controledengue\controledengue\bin\Debug\controledengue.exe.config
+D:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.exe
+D:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.pdb
+D:\Dengue Desktop\controledengue\controledengue\bin\Debug\controledengue.exe
+D:\Dengue Desktop\controledengue\controledengue\bin\Debug\controledengue.pdb
+D:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+D:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.Form2.resources
+D:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.Form1.resources
+D:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+D:\Dengue Desktop\controledengue\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\bin\Debug\controledengue.exe.config
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.exe
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.pdb
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\bin\Debug\controledengue.exe
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\bin\Debug\controledengue.pdb
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.Form2.resources
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.Form1.resources
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+D:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\Projeto_Dengue.Code.View.frmCadastrarUnidade.resources
+F:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\bin\Debug\controledengue.exe.config
+F:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.pdb
+H:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\bin\Debug\controledengue.exe.config
+H:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.exe
+H:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.pdb
+H:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+H:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+H:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.Form2.resources
+H:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.Form1.resources
+H:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+H:\Projeto Dengue\Dengue Desktop\Teste\controledengue\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\bin\Debug\controledengue.exe
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\bin\Debug\controledengue.pdb
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\obj\Debug\controledengue.Form2.resources
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\obj\Debug\controledengue.Form1.resources
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.menu.resources
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+C:\Users\TEMP.LABEDUC.000\Desktop\controledengue (new)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+H:\Projeto Dengue\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+H:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+H:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+D:\Projeto Dengue\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+D:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+D:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+D:\Projeto Dengue\controledengue (new)\controledengue\bin\Debug\controledengue.exe
+D:\Projeto Dengue\controledengue (new)\controledengue\bin\Debug\controledengue.pdb
+D:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+D:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+D:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Form2.resources
+D:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Form1.resources
+D:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.menu.resources
+D:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+D:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+G:\Projeto Dengue\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+G:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+G:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+G:\Projeto Dengue\controledengue (new)\controledengue\bin\Debug\controledengue.exe
+G:\Projeto Dengue\controledengue (new)\controledengue\bin\Debug\controledengue.pdb
+G:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+G:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+G:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Form2.resources
+G:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Form1.resources
+G:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.menu.resources
+G:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+G:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\Projeto Dengue\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+F:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+F:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+F:\Projeto Dengue\controledengue (new)\controledengue\bin\Debug\controledengue.exe
+F:\Projeto Dengue\controledengue (new)\controledengue\bin\Debug\controledengue.pdb
+F:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.menu.resources
+F:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\Projeto Dengue\controledengue (new)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.pdb
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\projetoAgendamento.Agendamento.resources
+F:\PROJETO DENGUE NOVO\Dengue Desktop\Version 5 (29.04.2016)\controledengue (new)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 6 (30.04.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 7 (02.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 8 (03.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 9 (04.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe.config
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\bin\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 10 (05.05.2016)\controledengue (new)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+D:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe.config
+D:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.exe
+D:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe.config
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\Projeto Dengue\Dengue Desktop\Version 11 (06.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe.config
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+H:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe.config
+H:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.exe
+H:\Projeto Dengue\Dengue Desktop\Version 12 (10.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe.config
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\Projeto Dengue\Dengue Desktop\Version 13 (11.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe.config
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.pdb
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\Projeto Dengue\Dengue Desktop\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe.config
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.exe
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.exe
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\bin\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\PROJETO DENGUE\Version 14 (12.05.2016)\controledengue (new now)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\projetoAgendamento.Code.View.Agendamento.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 15 (13.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Form2.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Form1.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Agendamento.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastroLogin.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.RedefinirSenha.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.exe
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.pdb
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\controledengue.exe
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\controledengue.pdb
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Agendamento.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastroLogin.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.RedefinirSenha.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Login.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Sobre.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 16 (14.05.2016)\controledengue (13.05.2016)\controledengue\obj\Debug\controledengue.ControleAgente.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.exe
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.pdb
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.exe
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.pdb
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Agendamento.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastroLogin.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.ControleAgente.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Login.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.RedefinirSenha.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Sobre.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.A2Z.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 17 (15.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.DicasPrevenção.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.exe
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.pdb
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.exe
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.pdb
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.A2Z.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Agendamento.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastroLogin.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.ControleAgente.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.DicasPrevenção.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Login.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.RedefinirSenha.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Sobre.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+E:\PROJETO DENGUE\Dengue Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.exe
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.pdb
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.exe
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.pdb
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.A2Z.resources
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Agendamento.resources
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastroLogin.resources
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.ControleAgente.resources
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Login.resources
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.RedefinirSenha.resources
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Sobre.resources
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+C:\Users\rafael.bar\Desktop\Version 18 (16.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 19 (17.05.2016)\controledengue (15.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+F:\PROJETO DENGUE\Dengue Desktop\Version 19 (17.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 19 (17.05.2016)\controledengue (15.05.2016)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\controledengue.exe
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\controledengue.pdb
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.A2Z.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Agendamento.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastroLogin.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.ControleAgente.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Login.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.RedefinirSenha.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Sobre.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+F:\PROJETO DENGUE\Dengue Desktop\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.exe
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.pdb
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\controledengue.exe
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\controledengue.pdb
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\MaterialSkin.dll
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.A2Z.resources
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Agendamento.resources
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastroLogin.resources
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.ControleAgente.resources
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Login.resources
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.RedefinirSenha.resources
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Sobre.resources
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+E:\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\MetroFramework.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\controledengue.exe.config
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.exe
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.pdb
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\controledengue.exe
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\controledengue.pdb
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\MaterialSkin.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.A2Z.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Agendamento.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.CadastroLogin.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.ControleAgente.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Login.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.RedefinirSenha.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Sobre.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\pt-BR\controledengue.resources.dll
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Agendamento.pt-BR.resources
+C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\pt-BR\controledengue.resources.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\controledengue.exe.config
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.exe
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.pdb
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\controledengue.exe
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\controledengue.pdb
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\pt-BR\controledengue.resources.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\MaterialSkin.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.A2Z.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.Agendamento.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.CadastroLogin.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.ControleAgente.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Login.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.RedefinirSenha.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.Sobre.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.Agendamento.pt-BR.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\pt-BR\controledengue.resources.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\MetroFramework.Design.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\MetroFramework.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.pt-BR.resources

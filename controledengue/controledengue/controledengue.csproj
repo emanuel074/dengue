@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E2D60169-7859-4E16-B778-8D1513AA065B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>controledengue</RootNamespace>
+    <AssemblyName>controledengue</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Windows.11.0.3452\lib\net40\Microsoft.ReportViewer.DataVisualization.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.Windows.11.0.3452\lib\net40\Microsoft.ReportViewer.WinForms.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.11.0.2\lib\net20\Microsoft.SqlServer.Types.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Code\BLL\AgendamentoBLL.cs" />
+    <Compile Include="Code\BLL\ControleBLL.cs" />
+    <Compile Include="Code\BLL\LoginBLL.cs" />
+    <Compile Include="Code\DAL\AcessoBancoDados.cs" />
+    <Compile Include="Code\DTO\AgendamentoDTO.cs" />
+    <Compile Include="Code\DTO\ControleDTO.cs" />
+    <Compile Include="Code\DTO\LoginDTO.cs" />
+    <Compile Include="Code\View\A2Z.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\View\A2Z.Designer.cs">
+      <DependentUpon>A2Z.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Code\View\Agendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\View\Agendamento.Designer.cs">
+      <DependentUpon>Agendamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Code\View\CadastrarUnidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\View\CadastrarUnidade.Designer.cs">
+      <DependentUpon>CadastrarUnidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Code\View\CadastroLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\View\CadastroLogin.Designer.cs">
+      <DependentUpon>CadastroLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Code\View\ControleAgente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\View\ControleAgente.Designer.cs">
+      <DependentUpon>ControleAgente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Code\View\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\View\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Code\BLL\UnidadeBLL.cs" />
+    <Compile Include="Code\DTO\UnidadeDTO.cs" />
+    <Compile Include="Code\View\MenuInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\View\MenuInicial.Designer.cs">
+      <DependentUpon>MenuInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Code\View\RedefinirSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\View\RedefinirSenha.Designer.cs">
+      <DependentUpon>RedefinirSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Code\View\Sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Code\View\Sobre.Designer.cs">
+      <DependentUpon>Sobre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="Code\View\A2Z.resx">
+      <DependentUpon>A2Z.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\View\Agendamento.pt-BR.resx">
+      <DependentUpon>Agendamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\View\Agendamento.resx">
+      <DependentUpon>Agendamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\View\CadastrarUnidade.pt-BR.resx">
+      <DependentUpon>CadastrarUnidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\View\CadastrarUnidade.resx">
+      <DependentUpon>CadastrarUnidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\View\CadastroLogin.resx">
+      <DependentUpon>CadastroLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\View\ControleAgente.resx">
+      <DependentUpon>ControleAgente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\View\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\View\MenuInicial.resx">
+      <DependentUpon>MenuInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\View\RedefinirSenha.resx">
+      <DependentUpon>RedefinirSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Code\View\Sobre.resx">
+      <DependentUpon>Sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1463789382_lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contacts-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Return-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Return-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\packages\Microsoft.SqlServer.Types.11.0.2\nativeBinaries\x64\msvcr100.dll">
+      <Link>SqlServerTypes\x64\msvcr100.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\packages\Microsoft.SqlServer.Types.11.0.2\nativeBinaries\x64\SqlServerSpatial110.dll">
+      <Link>SqlServerTypes\x64\SqlServerSpatial110.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\packages\Microsoft.SqlServer.Types.11.0.2\nativeBinaries\x86\msvcr100.dll">
+      <Link>SqlServerTypes\x86\msvcr100.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\packages\Microsoft.SqlServer.Types.11.0.2\nativeBinaries\x86\SqlServerSpatial110.dll">
+      <Link>SqlServerTypes\x86\SqlServerSpatial110.dll</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\laranja.png" />
+    <None Include="Resources\roxo.png" />
+    <None Include="Resources\azul.png" />
+    <None Include="Resources\1464024275_circle-arrow_back-previous-outline-stroke.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Code\Relatorios\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
