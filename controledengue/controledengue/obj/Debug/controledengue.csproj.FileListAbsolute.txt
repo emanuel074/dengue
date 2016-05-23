@@ -465,3 +465,37 @@ C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\c
 C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\bin\Debug\pt-BR\controledengue.resources.dll
 C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\controledengue.Code.View.Agendamento.pt-BR.resources
 C:\Users\Emanuel\Downloads\Version 20 (18.05.2016)\controledengue (18.05.2016)\controledengue\obj\Debug\pt-BR\controledengue.resources.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\controledengue.exe.config
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.exe
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.pdb
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\controledengue.exe
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\controledengue.pdb
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\pt-BR\controledengue.resources.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\MaterialSkin.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.A2Z.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.Agendamento.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.CadastroLogin.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.ControleAgente.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Login.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.MenuInicial.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.RedefinirSenha.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.Sobre.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Properties.Resources.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.Agendamento.pt-BR.resources
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.csproj.GenerateResource.Cache
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\pt-BR\controledengue.resources.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\MetroFramework.Design.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\MetroFramework.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.batista\Documents\dengue\controledengue\controledengue\obj\Debug\controledengue.Code.View.CadastrarUnidade.pt-BR.resources

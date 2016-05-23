@@ -66,30 +66,33 @@
             // 
             // tbConfirmarSenha
             // 
+            this.tbConfirmarSenha.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbConfirmarSenha.Location = new System.Drawing.Point(30, 270);
             this.tbConfirmarSenha.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tbConfirmarSenha.Name = "tbConfirmarSenha";
-            this.tbConfirmarSenha.Size = new System.Drawing.Size(222, 23);
+            this.tbConfirmarSenha.Size = new System.Drawing.Size(222, 21);
             this.tbConfirmarSenha.TabIndex = 19;
             this.tbConfirmarSenha.UseSystemPasswordChar = true;
             this.tbConfirmarSenha.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbConfirmarSenha_KeyPress);
             // 
             // tbNovaSenha
             // 
+            this.tbNovaSenha.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbNovaSenha.Location = new System.Drawing.Point(30, 197);
             this.tbNovaSenha.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tbNovaSenha.Name = "tbNovaSenha";
-            this.tbNovaSenha.Size = new System.Drawing.Size(222, 23);
+            this.tbNovaSenha.Size = new System.Drawing.Size(222, 21);
             this.tbNovaSenha.TabIndex = 18;
             this.tbNovaSenha.UseSystemPasswordChar = true;
             this.tbNovaSenha.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbNovaSenha_KeyPress);
             // 
             // tbSenha
             // 
+            this.tbSenha.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbSenha.Location = new System.Drawing.Point(30, 125);
             this.tbSenha.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.tbSenha.Name = "tbSenha";
-            this.tbSenha.Size = new System.Drawing.Size(222, 23);
+            this.tbSenha.Size = new System.Drawing.Size(222, 21);
             this.tbSenha.TabIndex = 17;
             this.tbSenha.UseSystemPasswordChar = true;
             this.tbSenha.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbSenha_KeyPress);
@@ -97,36 +100,36 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft YaHei UI Light", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(27, 242);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(156, 20);
+            this.label4.Size = new System.Drawing.Size(154, 18);
             this.label4.TabIndex = 16;
             this.label4.Text = "Confirmar nova senha";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft YaHei UI Light", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(27, 169);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(88, 20);
+            this.label3.Size = new System.Drawing.Size(87, 18);
             this.label3.TabIndex = 15;
             this.label3.Text = "Nova senha";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft YaHei UI Light", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(27, 98);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 20);
+            this.label2.Size = new System.Drawing.Size(85, 18);
             this.label2.TabIndex = 14;
             this.label2.Text = "Senha atual";
             // 
             // RedefinirSenha
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(455, 418);
             this.Controls.Add(this.btVoltar);
@@ -137,13 +140,13 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Font = new System.Drawing.Font("Microsoft YaHei UI Light", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.Name = "RedefinirSenha";
             this.Padding = new System.Windows.Forms.Padding(23, 79, 23, 27);
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
-            this.Style = MetroFramework.MetroColorStyle.Orange;
+            this.Style = MetroFramework.MetroColorStyle.Yellow;
             this.Text = "Redefinir Senha";
             this.Load += new System.EventHandler(this.RedefinirSenha_Load);
             this.ResumeLayout(false);

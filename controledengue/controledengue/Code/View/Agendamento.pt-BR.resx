@@ -117,57 +117,240 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btAtualizaGrid.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btAtualizaGrid.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btAtualizaGrid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>546, 273</value>
+  </data>
+  <data name="btAtualizaGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 28</value>
+  </data>
+  <data name="label10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>26, 279</value>
+  </data>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>49, 17</value>
+  </data>
+  <data name="btPesquisar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btPesquisar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btPesquisar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>400, 273</value>
+  </data>
+  <data name="btPesquisar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 28</value>
+  </data>
+  <data name="mtbPesquisar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 277</value>
+  </data>
+  <data name="mtbPesquisar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>282, 24</value>
+  </data>
+  <data name="btSair.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btSair.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btSair.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 549</value>
+  </data>
   <data name="btSair.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 28</value>
+    <value>104, 34</value>
+  </data>
+  <data name="btAtualizar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btAtualizar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="btAtualizar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>533, 614</value>
+    <value>609, 549</value>
   </data>
   <data name="btAtualizar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 28</value>
+    <value>104, 34</value>
+  </data>
+  <data name="btLimpar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="btLimpar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>339, 614</value>
+    <value>387, 549</value>
   </data>
   <data name="btLimpar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 28</value>
+    <value>104, 34</value>
+  </data>
+  <data name="btExcluir.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btExcluir.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="btExcluir.Location" type="System.Drawing.Point, System.Drawing">
-    <value>436, 614</value>
+    <value>498, 549</value>
   </data>
   <data name="btExcluir.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 28</value>
+    <value>104, 34</value>
+  </data>
+  <data name="btIncluir.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="btIncluir.Location" type="System.Drawing.Point, System.Drawing">
-    <value>630, 614</value>
+    <value>720, 549</value>
   </data>
   <data name="btIncluir.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 28</value>
+    <value>104, 34</value>
+  </data>
+  <data name="gridagente.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 318</value>
   </data>
   <data name="gridagente.Size" type="System.Drawing.Size, System.Drawing">
-    <value>697, 251</value>
+    <value>797, 224</value>
   </data>
-  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>712, 11</value>
+  <data name="label7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>808, 244</value>
+  </data>
+  <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 18</value>
+  </data>
+  <data name="label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>555, 170</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 17</value>
+  </data>
+  <data name="cmbEquipe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>558, 190</value>
+  </data>
+  <data name="cmbEquipe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>138, 25</value>
+  </data>
+  <data name="cmbPeriodo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>360, 192</value>
+  </data>
+  <data name="cmbPeriodo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 25</value>
+  </data>
+  <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>357, 170</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 17</value>
+  </data>
+  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>558, 108</value>
+    <value>638, 97</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 17</value>
+  </data>
+  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 170</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 17</value>
+  </data>
+  <data name="txtNome.Location" type="System.Drawing.Point, System.Drawing">
+    <value>223, 118</value>
+  </data>
+  <data name="txtNome.Size" type="System.Drawing.Size, System.Drawing">
+    <value>353, 24</value>
+  </data>
+  <data name="txtBairro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 194</value>
+  </data>
+  <data name="txtBairro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>293, 24</value>
+  </data>
+  <data name="labNomeAgennte.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labNomeAgennte.Location" type="System.Drawing.Point, System.Drawing">
+    <value>218, 94</value>
+  </data>
+  <data name="labNomeAgennte.Size" type="System.Drawing.Size, System.Drawing">
+    <value>113, 17</value>
+  </data>
+  <data name="txtCodigo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 118</value>
+  </data>
+  <data name="txtCodigo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>163, 24</value>
+  </data>
+  <data name="labCodAgente.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="labCodAgente.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 94</value>
+  </data>
+  <data name="labCodAgente.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 17</value>
+  </data>
+  <data name="linkLabObservaçao.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="linkLabObservaçao.Location" type="System.Drawing.Point, System.Drawing">
+    <value>606, 12</value>
+  </data>
   <data name="mktDataMarcada.CalendarFont" type="System.Resources.ResXNullRef, System.Windows.Forms">
     <value />
   </data>
   <data name="mktDataMarcada.Location" type="System.Drawing.Point, System.Drawing">
-    <value>562, 132</value>
+    <value>642, 118</value>
   </data>
   <data name="mktDataMarcada.MinimumSize" type="System.Drawing.Size, System.Drawing">
     <value>0, 29</value>
   </data>
   <data name="mktDataMarcada.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 29</value>
+    <value>123, 29</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 243</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>825, 11</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 17</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>748, 657</value>
+    <value>855, 588</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft JhengHei UI, 10pt</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="$this.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>26, 79, 26, 27</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>WindowsDefaultLocation</value>
   </data>
 </root>

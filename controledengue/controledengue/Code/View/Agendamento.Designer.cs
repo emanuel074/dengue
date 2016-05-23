@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Agendamento));
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.btAtualizaGrid = new System.Windows.Forms.Button();
             this.label10 = new System.Windows.Forms.Label();
             this.btPesquisar = new System.Windows.Forms.Button();
@@ -39,7 +40,6 @@
             this.btExcluir = new System.Windows.Forms.Button();
             this.btIncluir = new System.Windows.Forms.Button();
             this.gridagente = new System.Windows.Forms.DataGridView();
-            this.panel1 = new System.Windows.Forms.Panel();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.cmbEquipe = new System.Windows.Forms.ComboBox();
@@ -55,12 +55,15 @@
             this.linkLabObservaçao = new System.Windows.Forms.LinkLabel();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.mktDataMarcada = new MetroFramework.Controls.MetroDateTime();
+            this.panel1 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.gridagente)).BeginInit();
             this.SuspendLayout();
             // 
             // btAtualizaGrid
             // 
             resources.ApplyResources(this.btAtualizaGrid, "btAtualizaGrid");
+            this.btAtualizaGrid.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Orange;
+            this.btAtualizaGrid.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Orange;
             this.btAtualizaGrid.Name = "btAtualizaGrid";
             this.btAtualizaGrid.UseVisualStyleBackColor = true;
             this.btAtualizaGrid.Click += new System.EventHandler(this.btAtualizaGrid_Click);
@@ -74,6 +77,8 @@
             // 
             resources.ApplyResources(this.btPesquisar, "btPesquisar");
             this.btPesquisar.Cursor = System.Windows.Forms.Cursors.Default;
+            this.btPesquisar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Orange;
+            this.btPesquisar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Orange;
             this.btPesquisar.Name = "btPesquisar";
             this.btPesquisar.UseVisualStyleBackColor = true;
             this.btPesquisar.Click += new System.EventHandler(this.btPesquisar_Click);
@@ -87,6 +92,9 @@
             // btSair
             // 
             resources.ApplyResources(this.btSair, "btSair");
+            this.btSair.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.btSair.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Orange;
+            this.btSair.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Orange;
             this.btSair.Name = "btSair";
             this.btSair.UseVisualStyleBackColor = true;
             this.btSair.Click += new System.EventHandler(this.btSair_Click);
@@ -94,6 +102,8 @@
             // btAtualizar
             // 
             resources.ApplyResources(this.btAtualizar, "btAtualizar");
+            this.btAtualizar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Orange;
+            this.btAtualizar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Orange;
             this.btAtualizar.Name = "btAtualizar";
             this.btAtualizar.UseVisualStyleBackColor = true;
             this.btAtualizar.Click += new System.EventHandler(this.btAtualizar_Click);
@@ -101,6 +111,8 @@
             // btLimpar
             // 
             resources.ApplyResources(this.btLimpar, "btLimpar");
+            this.btLimpar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Orange;
+            this.btLimpar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Orange;
             this.btLimpar.Name = "btLimpar";
             this.btLimpar.UseVisualStyleBackColor = true;
             this.btLimpar.Click += new System.EventHandler(this.btLimpar_Click);
@@ -108,6 +120,8 @@
             // btExcluir
             // 
             resources.ApplyResources(this.btExcluir, "btExcluir");
+            this.btExcluir.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Orange;
+            this.btExcluir.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Orange;
             this.btExcluir.Name = "btExcluir";
             this.btExcluir.UseVisualStyleBackColor = true;
             this.btExcluir.Click += new System.EventHandler(this.btExcluir_Click);
@@ -115,6 +129,8 @@
             // btIncluir
             // 
             resources.ApplyResources(this.btIncluir, "btIncluir");
+            this.btIncluir.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Orange;
+            this.btIncluir.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Orange;
             this.btIncluir.Name = "btIncluir";
             this.btIncluir.UseVisualStyleBackColor = true;
             this.btIncluir.Click += new System.EventHandler(this.btIncluir_Click);
@@ -123,18 +139,21 @@
             // 
             resources.ApplyResources(this.gridagente, "gridagente");
             this.gridagente.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft JhengHei UI", 10F);
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.SandyBrown;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.NavajoWhite;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.gridagente.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             this.gridagente.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.gridagente.GridColor = System.Drawing.Color.Black;
             this.gridagente.Name = "gridagente";
             this.gridagente.ReadOnly = true;
             this.gridagente.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.gridagente.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridagente_CellClick);
             this.gridagente.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridagente_CellContentClick);
-            // 
-            // panel1
-            // 
-            resources.ApplyResources(this.panel1, "panel1");
-            this.panel1.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.panel1.Name = "panel1";
             // 
             // label7
             // 
@@ -149,7 +168,7 @@
             // cmbEquipe
             // 
             resources.ApplyResources(this.cmbEquipe, "cmbEquipe");
-            this.cmbEquipe.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            this.cmbEquipe.BackColor = System.Drawing.Color.WhiteSmoke;
             this.cmbEquipe.FormattingEnabled = true;
             this.cmbEquipe.Items.AddRange(new object[] {
             resources.GetString("cmbEquipe.Items"),
@@ -196,6 +215,7 @@
             // txtBairro
             // 
             resources.ApplyResources(this.txtBairro, "txtBairro");
+            this.txtBairro.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtBairro.Name = "txtBairro";
             this.txtBairro.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtBairro_KeyPress);
             // 
@@ -207,6 +227,7 @@
             // txtCodigo
             // 
             resources.ApplyResources(this.txtCodigo, "txtCodigo");
+            this.txtCodigo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtCodigo.Name = "txtCodigo";
             this.txtCodigo.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtCodigo_KeyPress);
             // 
@@ -235,12 +256,19 @@
             this.mktDataMarcada.MinDate = new System.DateTime(2016, 1, 1, 0, 0, 0, 0);
             this.mktDataMarcada.Name = "mktDataMarcada";
             // 
+            // panel1
+            // 
+            resources.ApplyResources(this.panel1, "panel1");
+            this.panel1.BackColor = System.Drawing.Color.Moccasin;
+            this.panel1.BackgroundImage = global::controledengue.Properties.Resources.laranja;
+            this.panel1.Name = "panel1";
+            // 
             // Agendamento
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoValidate = System.Windows.Forms.AutoValidate.EnablePreventFocusChange;
-            this.ControlBox = false;
+            this.CancelButton = this.btSair;
             this.Controls.Add(this.mktDataMarcada);
             this.Controls.Add(this.linkLabObservaçao);
             this.Controls.Add(this.btAtualizaGrid);
@@ -268,11 +296,9 @@
             this.Controls.Add(this.labCodAgente);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
-            this.MinimizeBox = false;
             this.Name = "Agendamento";
-            this.ShowInTaskbar = false;
-            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.Style = MetroFramework.MetroColorStyle.Yellow;
+            this.TransparencyKey = System.Drawing.Color.Silver;
             this.Load += new System.EventHandler(this.Agendamento_Load);
             ((System.ComponentModel.ISupportInitialize)(this.gridagente)).EndInit();
             this.ResumeLayout(false);

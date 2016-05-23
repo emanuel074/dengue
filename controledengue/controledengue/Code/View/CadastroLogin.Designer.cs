@@ -45,7 +45,9 @@
             // 
             // btVoltar
             // 
-            this.btVoltar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btVoltar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btVoltar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btVoltar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btVoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btVoltar.Location = new System.Drawing.Point(23, 312);
             this.btVoltar.Name = "btVoltar";
@@ -57,6 +59,8 @@
             // 
             // btCadastrar
             // 
+            this.btCadastrar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.btCadastrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.btCadastrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btCadastrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btCadastrar.Location = new System.Drawing.Point(287, 312);
@@ -71,7 +75,7 @@
             // 
             this.lbConfirmarSenha.AutoSize = true;
             this.lbConfirmarSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbConfirmarSenha.Location = new System.Drawing.Point(58, 208);
+            this.lbConfirmarSenha.Location = new System.Drawing.Point(57, 208);
             this.lbConfirmarSenha.Name = "lbConfirmarSenha";
             this.lbConfirmarSenha.Size = new System.Drawing.Size(122, 18);
             this.lbConfirmarSenha.TabIndex = 18;
@@ -79,6 +83,7 @@
             // 
             // tbConfirmarSenha
             // 
+            this.tbConfirmarSenha.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbConfirmarSenha.Location = new System.Drawing.Point(61, 229);
             this.tbConfirmarSenha.Name = "tbConfirmarSenha";
             this.tbConfirmarSenha.Size = new System.Drawing.Size(253, 20);
@@ -90,7 +95,7 @@
             // 
             this.lbSenha.AutoSize = true;
             this.lbSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbSenha.Location = new System.Drawing.Point(58, 142);
+            this.lbSenha.Location = new System.Drawing.Point(57, 142);
             this.lbSenha.Name = "lbSenha";
             this.lbSenha.Size = new System.Drawing.Size(54, 18);
             this.lbSenha.TabIndex = 16;
@@ -98,7 +103,9 @@
             // 
             // tbSenha
             // 
+            this.tbSenha.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbSenha.Location = new System.Drawing.Point(61, 163);
+            this.tbSenha.MaxLength = 20;
             this.tbSenha.Name = "tbSenha";
             this.tbSenha.Size = new System.Drawing.Size(253, 20);
             this.tbSenha.TabIndex = 15;
@@ -110,7 +117,7 @@
             // 
             this.lbUsuario.AutoSize = true;
             this.lbUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbUsuario.Location = new System.Drawing.Point(58, 88);
+            this.lbUsuario.Location = new System.Drawing.Point(57, 88);
             this.lbUsuario.Name = "lbUsuario";
             this.lbUsuario.Size = new System.Drawing.Size(64, 18);
             this.lbUsuario.TabIndex = 14;
@@ -118,8 +125,12 @@
             // 
             // tbUsuario
             // 
+            this.tbUsuario.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbUsuario.Location = new System.Drawing.Point(61, 109);
+            this.tbUsuario.MaxLength = 20;
             this.tbUsuario.Name = "tbUsuario";
+            this.tbUsuario.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.tbUsuario.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
             this.tbUsuario.Size = new System.Drawing.Size(253, 20);
             this.tbUsuario.TabIndex = 13;
             this.tbUsuario.TextChanged += new System.EventHandler(this.tbUsuario_TextChanged);
@@ -139,7 +150,7 @@
             // pictureBox_Usu
             // 
             this.pictureBox_Usu.BackgroundImage = global::controledengue.Properties.Resources.Password_32;
-            this.pictureBox_Usu.Location = new System.Drawing.Point(8, 153);
+            this.pictureBox_Usu.Location = new System.Drawing.Point(9, 153);
             this.pictureBox_Usu.Name = "pictureBox_Usu";
             this.pictureBox_Usu.Size = new System.Drawing.Size(35, 30);
             this.pictureBox_Usu.TabIndex = 24;
@@ -149,7 +160,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = global::controledengue.Properties.Resources.Contacts_32;
-            this.pictureBox1.Location = new System.Drawing.Point(8, 99);
+            this.pictureBox1.Location = new System.Drawing.Point(9, 99);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(35, 30);
             this.pictureBox1.TabIndex = 25;
@@ -159,7 +170,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(434, 360);
+            this.ClientSize = new System.Drawing.Size(435, 360);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox_Usu);
             this.Controls.Add(this.linklbObs);
@@ -171,10 +182,12 @@
             this.Controls.Add(this.tbSenha);
             this.Controls.Add(this.lbUsuario);
             this.Controls.Add(this.tbUsuario);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.MaximizeBox = false;
             this.Name = "CadastroLogin";
+            this.Padding = new System.Windows.Forms.Padding(21, 60, 21, 20);
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
-            this.Style = MetroFramework.MetroColorStyle.Lime;
+            this.Style = MetroFramework.MetroColorStyle.Orange;
             this.Text = "Cadastro de Usuários";
             this.Load += new System.EventHandler(this.CadastroLogin_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox_Usu)).EndInit();

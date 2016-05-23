@@ -22,7 +22,7 @@ namespace controledengue.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace controledengue.Properties {
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("controledengue.Properties.Resources", typeof(Resources).Assembly);
@@ -51,7 +51,7 @@ namespace controledengue.Properties {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,9 +63,9 @@ namespace controledengue.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _1 {
+        public static System.Drawing.Bitmap _1464024275_circle_arrow_back_previous_outline_stroke {
             get {
-                object obj = ResourceManager.GetObject("1", resourceCulture);
+                object obj = ResourceManager.GetObject("1464024275_circle-arrow_back-previous-outline-stroke", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace controledengue.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _1463789382_lock {
+        public static System.Drawing.Bitmap azul {
             get {
-                object obj = ResourceManager.GetObject("1463789382_lock", resourceCulture);
+                object obj = ResourceManager.GetObject("azul", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,17 +83,7 @@ namespace controledengue.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _2 {
-            get {
-                object obj = ResourceManager.GetObject("2", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Contacts_32 {
+        public static System.Drawing.Bitmap Contacts_32 {
             get {
                 object obj = ResourceManager.GetObject("Contacts-32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -103,7 +93,7 @@ namespace controledengue.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Delete_32 {
+        public static System.Drawing.Bitmap Delete_32 {
             get {
                 object obj = ResourceManager.GetObject("Delete-32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -113,7 +103,7 @@ namespace controledengue.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Exit_32 {
+        public static System.Drawing.Bitmap Exit_32 {
             get {
                 object obj = ResourceManager.GetObject("Exit-32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -123,9 +113,9 @@ namespace controledengue.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Exit_64 {
+        public static System.Drawing.Bitmap laranja {
             get {
-                object obj = ResourceManager.GetObject("Exit-64", resourceCulture);
+                object obj = ResourceManager.GetObject("laranja", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,7 +123,7 @@ namespace controledengue.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Password_32 {
+        public static System.Drawing.Bitmap Password_32 {
             get {
                 object obj = ResourceManager.GetObject("Password-32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -143,7 +133,7 @@ namespace controledengue.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Return_32 {
+        public static System.Drawing.Bitmap Return_32 {
             get {
                 object obj = ResourceManager.GetObject("Return-32", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
@@ -153,9 +143,19 @@ namespace controledengue.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Return_64 {
+        public static System.Drawing.Bitmap Return_64 {
             get {
                 object obj = ResourceManager.GetObject("Return-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap roxo {
+            get {
+                object obj = ResourceManager.GetObject("roxo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

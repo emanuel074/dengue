@@ -45,20 +45,20 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft YaHei UI Light", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(41, 161);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(51, 20);
+            this.label2.Size = new System.Drawing.Size(50, 18);
             this.label2.TabIndex = 23;
             this.label2.Text = "Senha";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft YaHei UI Light", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(40, 89);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(60, 20);
+            this.label1.Size = new System.Drawing.Size(60, 18);
             this.label1.TabIndex = 22;
             this.label1.Text = "Usuário";
             // 
@@ -87,7 +87,9 @@
             // 
             // btCadastrar
             // 
-            this.btCadastrar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btCadastrar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.btCadastrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.ForestGreen;
+            this.btCadastrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btCadastrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btCadastrar.Location = new System.Drawing.Point(43, 318);
             this.btCadastrar.Name = "btCadastrar";
@@ -99,7 +101,9 @@
             // 
             // btEntrar
             // 
-            this.btEntrar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btEntrar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.btEntrar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.ForestGreen;
+            this.btEntrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btEntrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btEntrar.Location = new System.Drawing.Point(44, 222);
             this.btEntrar.Name = "btEntrar";

@@ -121,9 +121,6 @@
     <value>metroLabel1</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>484, 190</value>
-  </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>46, 20</value>
   </data>
@@ -133,6 +130,9 @@
   </data>
   <data name="&gt;&gt;label6.Name" xml:space="preserve">
     <value>label6</value>
+  </data>
+  <data name="linkLabObservaçao.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
   </data>
   <data name="cmbEquipe.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
@@ -144,7 +144,7 @@
     <value>metroDateTime1</value>
   </data>
   <data name="labCodAgente.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft YaHei UI Light, 10pt</value>
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
   <data name="btExcluir.Location" type="System.Drawing.Point, System.Drawing">
     <value>482, 614</value>
@@ -152,14 +152,20 @@
   <data name="&gt;&gt;label5.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="btSair.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="label4.TabIndex" type="System.Int32, mscorlib">
     <value>37</value>
   </data>
+  <data name="&gt;&gt;label7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="txtBairro.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 4, 3, 4</value>
+  </data>
+  <data name="gridagente.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
   <data name="mtbPesquisar.Location" type="System.Drawing.Point, System.Drawing">
@@ -168,14 +174,14 @@
   <data name="gridagente.Location" type="System.Drawing.Point, System.Drawing">
     <value>26, 355</value>
   </data>
+  <data name="labCodAgente.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 20</value>
+  </data>
   <data name="&gt;&gt;metroLabel1.Type" xml:space="preserve">
     <value>MetroFramework.Controls.MetroLabel, MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
   </data>
   <data name="txtNome.Location" type="System.Drawing.Point, System.Drawing">
     <value>195, 132</value>
-  </data>
-  <data name="&gt;&gt;txtCodigo.ZOrder" xml:space="preserve">
-    <value>23</value>
   </data>
   <data name="txtNome.TabIndex" type="System.Int32, mscorlib">
     <value>35</value>
@@ -183,8 +189,8 @@
   <data name="txtNome.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
-  <data name="linkLabObservaçao.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Equipe</value>
   </data>
   <data name="metroDateTime1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
@@ -204,8 +210,8 @@
   <data name="btAtualizar.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
-  <data name="mktDataMarcada1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>530, 105</value>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;mtbPesquisar.ZOrder" xml:space="preserve">
     <value>5</value>
@@ -213,8 +219,8 @@
   <data name="&gt;&gt;cmbPeriodo.ZOrder" xml:space="preserve">
     <value>16</value>
   </data>
-  <data name="metroLabel1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
+  <data name="mktDataMarcada1.TabIndex" type="System.Int32, mscorlib">
+    <value>54</value>
   </data>
   <data name="metroLabel1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -228,9 +234,6 @@
   <data name="&gt;&gt;btPesquisar.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="btExcluir.Text" xml:space="preserve">
-    <value>Excluir</value>
-  </data>
   <data name="&gt;&gt;btPesquisar.Name" xml:space="preserve">
     <value>btPesquisar</value>
   </data>
@@ -240,11 +243,14 @@
   <data name="&gt;&gt;btSair.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>840, 606</value>
+  </data>
   <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
     <value>13</value>
   </data>
-  <data name="btSair.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+  <data name="label7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="&gt;&gt;btAtualizaGrid.ZOrder" xml:space="preserve">
     <value>2</value>
@@ -267,14 +273,11 @@
   <data name="&gt;&gt;gridagente.Name" xml:space="preserve">
     <value>gridagente</value>
   </data>
-  <data name="btSair.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 37</value>
-  </data>
   <data name="cmbEquipe.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
-  <data name="label10.Text" xml:space="preserve">
-    <value>Nome </value>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 20</value>
   </data>
   <data name="&gt;&gt;label10.Name" xml:space="preserve">
     <value>label10</value>
@@ -300,26 +303,23 @@
   <data name="cmbEquipe.Items1" xml:space="preserve">
     <value>Amarelo</value>
   </data>
-  <data name="&gt;&gt;gridagente.ZOrder" xml:space="preserve">
-    <value>11</value>
+  <data name="&gt;&gt;mktDataMarcada.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="linkLabObservaçao.Location" type="System.Drawing.Point, System.Drawing">
     <value>598, 13</value>
   </data>
-  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>7, 19</value>
+  </data>
+  <data name="&gt;&gt;metroDateTime1.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroDateTime, MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
   </data>
   <data name="btIncluir.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Popup</value>
   </data>
   <data name="btLimpar.Location" type="System.Drawing.Point, System.Drawing">
     <value>385, 614</value>
-  </data>
-  <data name="labCodAgente.TabIndex" type="System.Int32, mscorlib">
-    <value>31</value>
   </data>
   <data name="&gt;&gt;cmbEquipe.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -342,9 +342,6 @@
   <data name="btPesquisar.Text" xml:space="preserve">
     <value>Pesquisar</value>
   </data>
-  <data name="&gt;&gt;mktDataMarcada.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="&gt;&gt;labNomeAgennte.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
@@ -361,7 +358,7 @@
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label10.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft YaHei UI Light, 10pt</value>
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
   <data name="&gt;&gt;btSair.ZOrder" xml:space="preserve">
     <value>6</value>
@@ -386,9 +383,6 @@
   </data>
   <data name="labCodAgente.Text" xml:space="preserve">
     <value>Codigo do Agente</value>
-  </data>
-  <data name="label6.Text" xml:space="preserve">
-    <value>Equipe</value>
   </data>
   <data name="btIncluir.Location" type="System.Drawing.Point, System.Drawing">
     <value>676, 614</value>
@@ -417,11 +411,11 @@
   <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
     <value>0, 20</value>
   </data>
+  <data name="mktDataMarcada1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>530, 105</value>
+  </data>
   <data name="mktDataMarcada.Location" type="System.Drawing.Point, System.Drawing">
     <value>530, 129</value>
-  </data>
-  <data name="&gt;&gt;label3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
     <value>526, 105</value>
@@ -429,11 +423,11 @@
   <data name="metroDateTime1.MinimumSize" type="System.Drawing.Size, System.Drawing">
     <value>0, 29</value>
   </data>
-  <data name="btAtualizar.Text" xml:space="preserve">
-    <value>Alterar</value>
-  </data>
   <data name="cmbPeriodo.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 25</value>
+  </data>
+  <data name="metroLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
   </data>
   <data name="&gt;&gt;btAtualizar.ZOrder" xml:space="preserve">
     <value>7</value>
@@ -468,9 +462,6 @@
   <data name="metroDateTime1.TabIndex" type="System.Int32, mscorlib">
     <value>57</value>
   </data>
-  <data name="txtBairro.Size" type="System.Drawing.Size, System.Drawing">
-    <value>257, 25</value>
-  </data>
   <data name="&gt;&gt;mktDataMarcada1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
@@ -479,6 +470,12 @@
   </data>
   <data name="&gt;&gt;linkLabObservaçao.ZOrder" xml:space="preserve">
     <value>1</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>829, 11</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
   </data>
   <data name="btPesquisar.TabIndex" type="System.Int32, mscorlib">
     <value>52</value>
@@ -489,14 +486,11 @@
   <data name="btAtualizar.Location" type="System.Drawing.Point, System.Drawing">
     <value>579, 614</value>
   </data>
-  <data name="&gt;&gt;label7.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;cmbEquipe.Name" xml:space="preserve">
     <value>cmbEquipe</value>
   </data>
-  <data name="cmbEquipe.Location" type="System.Drawing.Point, System.Drawing">
-    <value>488, 213</value>
+  <data name="cmbPeriodo.Items" xml:space="preserve">
+    <value>1ºTurno</value>
   </data>
   <data name="btExcluir.TabIndex" type="System.Int32, mscorlib">
     <value>47</value>
@@ -513,29 +507,29 @@
   <data name="txtCodigo.Size" type="System.Drawing.Size, System.Drawing">
     <value>143, 25</value>
   </data>
-  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 190</value>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
   <data name="btIncluir.TabIndex" type="System.Int32, mscorlib">
     <value>46</value>
   </data>
-  <data name="btExcluir.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 11.25pt</value>
+  <data name="&gt;&gt;btSair.Name" xml:space="preserve">
+    <value>btSair</value>
   </data>
   <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
     <value>311, 186</value>
   </data>
-  <data name="&gt;&gt;btIncluir.Name" xml:space="preserve">
-    <value>btIncluir</value>
-  </data>
   <data name="metroLabel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 23</value>
   </data>
-  <data name="label7.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="&gt;&gt;gridagente.ZOrder" xml:space="preserve">
+    <value>11</value>
   </data>
   <data name="&gt;&gt;mtbPesquisar.Type" xml:space="preserve">
     <value>System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtCodigo.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="cmbPeriodo.Items1" xml:space="preserve">
     <value>2ºTurno</value>
@@ -550,7 +544,7 @@
     <value>$this</value>
   </data>
   <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft YaHei UI Light, 10pt</value>
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
   <data name="btAtualizaGrid.TabIndex" type="System.Int32, mscorlib">
     <value>55</value>
@@ -576,26 +570,32 @@
   <data name="txtCodigo.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
-  <data name="gridagente.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="metroDateTime1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>233, 29</value>
+  </data>
+  <data name="btExcluir.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 11.25pt</value>
+  </data>
+  <data name="labCodAgente.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="btAtualizar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
-  <data name="btSair.TabIndex" type="System.Int32, mscorlib">
-    <value>50</value>
-  </data>
-  <data name="label5.TabIndex" type="System.Int32, mscorlib">
-    <value>38</value>
-  </data>
-  <data name="label3.Text" xml:space="preserve">
-    <value>Bairro</value>
+  <data name="labNomeAgennte.Location" type="System.Drawing.Point, System.Drawing">
+    <value>191, 105</value>
   </data>
   <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft YaHei UI Light, 10pt</value>
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
-  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft YaHei UI Light, 10pt</value>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Nome </value>
   </data>
   <data name="labNomeAgennte.TabIndex" type="System.Int32, mscorlib">
     <value>33</value>
+  </data>
+  <data name="txtBairro.MaxLength" type="System.Int32, mscorlib">
+    <value>59</value>
   </data>
   <data name="btIncluir.Text" xml:space="preserve">
     <value>Salvar</value>
@@ -612,23 +612,20 @@
   <data name="&gt;&gt;gridagente.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;label7.Name" xml:space="preserve">
+    <value>label7</value>
   </data>
-  <data name="txtNome.Size" type="System.Drawing.Size, System.Drawing">
-    <value>309, 25</value>
+  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="btLimpar.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
-  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>59, 20</value>
-  </data>
   <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;metroDateTime1.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroDateTime, MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>26, 190</value>
   </data>
   <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>None</value>
@@ -640,7 +637,7 @@
     <value>41</value>
   </data>
   <data name="labNomeAgennte.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft YaHei UI Light, 10pt</value>
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
   <data name="&gt;&gt;btAtualizaGrid.Parent" xml:space="preserve">
     <value>$this</value>
@@ -675,11 +672,11 @@
   <data name="&gt;&gt;btExcluir.Name" xml:space="preserve">
     <value>btExcluir</value>
   </data>
-  <data name="&gt;&gt;btIncluir.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="label10.TabIndex" type="System.Int32, mscorlib">
+    <value>53</value>
   </data>
   <data name="mktDataMarcada.CalendarFont" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft YaHei UI Light, 10pt</value>
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
   <data name="&gt;&gt;labNomeAgennte.Name" xml:space="preserve">
     <value>labNomeAgennte</value>
@@ -702,6 +699,9 @@
   <data name="&gt;&gt;txtCodigo.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="txtCodigo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>26, 132</value>
+  </data>
   <data name="&gt;&gt;gridagente.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -720,17 +720,17 @@
   <data name="txtNome.MaxLength" type="System.Int32, mscorlib">
     <value>100</value>
   </data>
-  <data name="btAtualizar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 4, 3, 4</value>
+  <data name="&gt;&gt;txtCodigo.ZOrder" xml:space="preserve">
+    <value>23</value>
   </data>
   <data name="&gt;&gt;mktDataMarcada1.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
   <data name="btSair.Location" type="System.Drawing.Point, System.Drawing">
     <value>26, 614</value>
-  </data>
-  <data name="btSair.Text" xml:space="preserve">
-    <value>Voltar</value>
   </data>
   <data name="&gt;&gt;metroDateTime1.Parent" xml:space="preserve">
     <value>$this</value>
@@ -743,9 +743,6 @@
   </data>
   <data name="cmbPeriodo.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial, 11.25pt</value>
-  </data>
-  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>52, 20</value>
   </data>
   <data name="btPesquisar.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 11.25pt</value>
@@ -768,9 +765,6 @@
   <data name="cmbEquipe.Size" type="System.Drawing.Size, System.Drawing">
     <value>121, 27</value>
   </data>
-  <data name="&gt;&gt;btAtualizar.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <data name="panel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
@@ -783,8 +777,8 @@
   <data name="&gt;&gt;cmbPeriodo.Name" xml:space="preserve">
     <value>cmbPeriodo</value>
   </data>
-  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="&gt;&gt;btIncluir.Name" xml:space="preserve">
+    <value>btIncluir</value>
   </data>
   <data name="cmbPeriodo.TabIndex" type="System.Int32, mscorlib">
     <value>39</value>
@@ -801,11 +795,14 @@
   <data name="&gt;&gt;linkLabObservaçao.Name" xml:space="preserve">
     <value>linkLabObservaçao</value>
   </data>
+  <data name="&gt;&gt;linkLabObservaçao.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="mtbPesquisar.Size" type="System.Drawing.Size, System.Drawing">
     <value>247, 25</value>
   </data>
-  <data name="&gt;&gt;txtCodigo.Name" xml:space="preserve">
-    <value>txtCodigo</value>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 20</value>
   </data>
   <data name="btAtualizaGrid.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Popup</value>
@@ -813,11 +810,11 @@
   <data name="&gt;&gt;label10.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="cmbPeriodo.Items" xml:space="preserve">
-    <value>1ºTurno</value>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="txtCodigo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>26, 132</value>
+  <data name="txtNome.Size" type="System.Drawing.Size, System.Drawing">
+    <value>309, 25</value>
   </data>
   <data name="&gt;&gt;labNomeAgennte.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -828,8 +825,8 @@
   <data name="&gt;&gt;btAtualizar.Name" xml:space="preserve">
     <value>btAtualizar</value>
   </data>
-  <data name="label10.TabIndex" type="System.Int32, mscorlib">
-    <value>53</value>
+  <data name="txtBairro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>257, 25</value>
   </data>
   <data name="&gt;&gt;txtNome.Name" xml:space="preserve">
     <value>txtNome</value>
@@ -837,8 +834,11 @@
   <data name="&gt;&gt;btSair.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
-    <value>panel1</value>
+  <data name="&gt;&gt;mktDataMarcada.Type" xml:space="preserve">
+    <value>MetroFramework.Controls.MetroDateTime, MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+  <data name="btSair.Size" type="System.Drawing.Size, System.Drawing">
+    <value>91, 37</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
@@ -846,26 +846,26 @@
   <data name="&gt;&gt;mktDataMarcada.Name" xml:space="preserve">
     <value>mktDataMarcada</value>
   </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>840, 606</value>
+  <data name="btSair.TabIndex" type="System.Int32, mscorlib">
+    <value>50</value>
   </data>
   <data name="cmbEquipe.Items2" xml:space="preserve">
     <value>Verde</value>
   </data>
-  <data name="txtBairro.MaxLength" type="System.Int32, mscorlib">
-    <value>59</value>
+  <data name="&gt;&gt;btIncluir.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;mktDataMarcada.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;btSair.Name" xml:space="preserve">
-    <value>btSair</value>
+  <data name="&gt;&gt;txtCodigo.Name" xml:space="preserve">
+    <value>txtCodigo</value>
   </data>
   <data name="gridagente.Size" type="System.Drawing.Size, System.Drawing">
     <value>741, 251</value>
   </data>
-  <data name="&gt;&gt;label7.Name" xml:space="preserve">
-    <value>label7</value>
+  <data name="&gt;&gt;labCodAgente.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;labCodAgente.Name" xml:space="preserve">
     <value>labCodAgente</value>
@@ -879,26 +879,26 @@
   <data name="btPesquisar.Location" type="System.Drawing.Point, System.Drawing">
     <value>350, 305</value>
   </data>
-  <data name="mktDataMarcada1.TabIndex" type="System.Int32, mscorlib">
-    <value>54</value>
+  <data name="btSair.Text" xml:space="preserve">
+    <value>Voltar</value>
   </data>
   <data name="&gt;&gt;btAtualizaGrid.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="labNomeAgennte.Location" type="System.Drawing.Point, System.Drawing">
-    <value>191, 105</value>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Bairro</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>19</value>
   </data>
-  <data name="metroLabel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+  <data name="&gt;&gt;btAtualizar.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="cmbPeriodo.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 4, 3, 4</value>
   </data>
-  <data name="&gt;&gt;txtCodigo.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 20</value>
   </data>
   <data name="txtBairro.TabIndex" type="System.Int32, mscorlib">
     <value>34</value>
@@ -913,13 +913,13 @@
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft YaHei UI Light, 10pt</value>
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
   <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft YaHei UI Light, 10pt</value>
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
-  <data name="&gt;&gt;labCodAgente.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="metroLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="&gt;&gt;cmbEquipe.ZOrder" xml:space="preserve">
     <value>15</value>
@@ -927,41 +927,41 @@
   <data name="btIncluir.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 37</value>
   </data>
-  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>95, 20</value>
+  <data name="btExcluir.Text" xml:space="preserve">
+    <value>Excluir</value>
   </data>
   <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
     <value>53, 20</value>
   </data>
-  <data name="&gt;&gt;linkLabObservaçao.Type" xml:space="preserve">
-    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="cmbEquipe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>488, 213</value>
   </data>
   <data name="btAtualizar.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Popup</value>
   </data>
-  <data name="metroDateTime1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>233, 29</value>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="&gt;&gt;mktDataMarcada.Type" xml:space="preserve">
-    <value>MetroFramework.Controls.MetroDateTime, MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>484, 190</value>
   </data>
   <data name="&gt;&gt;txtNome.ZOrder" xml:space="preserve">
     <value>20</value>
   </data>
-  <data name="labCodAgente.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 20</value>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
     <value>Data Marcada</value>
   </data>
-  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>829, 11</value>
+  <data name="btAtualizar.Text" xml:space="preserve">
+    <value>Alterar</value>
   </data>
   <data name="btSair.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Popup</value>
   </data>
-  <data name="labCodAgente.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="labCodAgente.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>

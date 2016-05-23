@@ -32,6 +32,7 @@
             this.btCadAgente = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.btAgenda = new System.Windows.Forms.Button();
+            this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.configuraçõesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.redefinirSenhaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -40,15 +41,18 @@
             this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ajudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sobreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btCadUni
             // 
-            this.btCadUni.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btCadUni.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btCadUni.Location = new System.Drawing.Point(270, 228);
+            this.btCadUni.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btCadUni.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DodgerBlue;
+            this.btCadUni.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DodgerBlue;
+            this.btCadUni.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btCadUni.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btCadUni.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btCadUni.Location = new System.Drawing.Point(246, 226);
             this.btCadUni.Name = "btCadUni";
             this.btCadUni.Size = new System.Drawing.Size(367, 59);
             this.btCadUni.TabIndex = 7;
@@ -58,9 +62,11 @@
             // 
             // btCadAgente
             // 
-            this.btCadAgente.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btCadAgente.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btCadAgente.Location = new System.Drawing.Point(270, 311);
+            this.btCadAgente.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DodgerBlue;
+            this.btCadAgente.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DodgerBlue;
+            this.btCadAgente.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btCadAgente.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btCadAgente.Location = new System.Drawing.Point(246, 308);
             this.btCadAgente.Name = "btCadAgente";
             this.btCadAgente.Size = new System.Drawing.Size(367, 59);
             this.btCadAgente.TabIndex = 8;
@@ -72,19 +78,21 @@
             // 
             this.label1.AutoSize = true;
             this.label1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.label1.Font = new System.Drawing.Font("Microsoft YaHei UI Light", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.DimGray;
-            this.label1.Location = new System.Drawing.Point(343, 107);
+            this.label1.Location = new System.Drawing.Point(319, 104);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(219, 118);
+            this.label1.Size = new System.Drawing.Size(211, 102);
             this.label1.TabIndex = 9;
             this.label1.Text = "A2Z";
             // 
             // btAgenda
             // 
-            this.btAgenda.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btAgenda.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btAgenda.Location = new System.Drawing.Point(270, 394);
+            this.btAgenda.FlatAppearance.MouseDownBackColor = System.Drawing.Color.DodgerBlue;
+            this.btAgenda.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DodgerBlue;
+            this.btAgenda.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btAgenda.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btAgenda.Location = new System.Drawing.Point(246, 391);
             this.btAgenda.Name = "btAgenda";
             this.btAgenda.Size = new System.Drawing.Size(367, 59);
             this.btAgenda.TabIndex = 10;
@@ -92,16 +100,26 @@
             this.btAgenda.UseVisualStyleBackColor = true;
             this.btAgenda.Click += new System.EventHandler(this.btAgenda_Click);
             // 
+            // metroLabel1
+            // 
+            this.metroLabel1.AutoSize = true;
+            this.metroLabel1.Location = new System.Drawing.Point(0, 0);
+            this.metroLabel1.Name = "metroLabel1";
+            this.metroLabel1.Size = new System.Drawing.Size(100, 23);
+            this.metroLabel1.TabIndex = 0;
+            this.metroLabel1.Text = "A2Z";
+            // 
             // menuStrip1
             // 
-            this.menuStrip1.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.menuStrip1.BackColor = System.Drawing.Color.Blue;
+            this.menuStrip1.BackgroundImage = global::controledengue.Properties.Resources.azul;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.configuraçõesToolStripMenuItem,
             this.ajudaToolStripMenuItem,
             this.sobreToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(20, 60);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(832, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(809, 28);
             this.menuStrip1.TabIndex = 11;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -162,20 +180,11 @@
             this.sobreToolStripMenuItem.Text = "Sobre";
             this.sobreToolStripMenuItem.Click += new System.EventHandler(this.sobreToolStripMenuItem_Click);
             // 
-            // metroLabel1
-            // 
-            this.metroLabel1.AutoSize = true;
-            this.metroLabel1.Location = new System.Drawing.Point(0, 0);
-            this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(100, 23);
-            this.metroLabel1.TabIndex = 0;
-            this.metroLabel1.Text = "A2Z";
-            // 
             // MenuInicial
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(872, 467);
+            this.ClientSize = new System.Drawing.Size(849, 480);
             this.Controls.Add(this.btAgenda);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btCadAgente);

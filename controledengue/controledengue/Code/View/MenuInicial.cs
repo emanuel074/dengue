@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Windows.Forms;
-using controledengue.Code.View;
-using MySql;
-using MySql.Data.MySqlClient;
 using DAL;
 using System.Data;
 using MetroFramework.Forms;
@@ -103,7 +100,7 @@ namespace controledengue.Code.View
 
         private void MenuInicial_Load(object sender, EventArgs e)
         {
-
+           
         }
     }
 }
